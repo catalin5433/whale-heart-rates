@@ -1,4 +1,5 @@
-This project explores heart rate patterns in whales using real-world physiological data (data source: https://stacks.stanford.edu/file/zp260dk8787/bw_hr_by_state ). The goal is to better understand how heart rate varies across different conditions and to identify meaningful trends in large-scale biological data. 
+This project explores heart rate patterns in whales using real-world physiological data (data source: https://stacks.stanford.edu/file/zp260dk8787/bw_hr_by_state ). The goal is to understand better how heart rate varies across different conditions and to identify meaningful trends in large-scale biological data.
+The notebook can be run interactively in your browser (no installation required) via MyBinder: https://bit.ly/4tQVLIX .
 
 
 The project enables exploration of questions such as:
